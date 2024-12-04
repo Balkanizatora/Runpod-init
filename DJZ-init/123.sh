@@ -53,7 +53,7 @@ CHECKPOINT_MODELS=(
 )
 
 UNET_MODELS=(
-	"https://huggingface.co/camenduru/FLUX.1-dev/resolve/main/flux1-dev.sft"
+	"https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/flux1-dev.safetensors"
 )
 
 CLIP_MODELS=(
